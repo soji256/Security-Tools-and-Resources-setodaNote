@@ -90,5 +90,17 @@ https://dbot.demisto.com/
 https://github.com/gehaxelt/Python-dsstore  
 Mac などで意図せず含まれてしまうことがある.DS_Store ファイルをパースできるツール。場合によってはアカウント名やパスワードが含まれることもあるらしい（どんなケースだろ）。
 
+# コミュニティ
+- DFIR community resource list – Meir Wahnon – Medium   
+https://medium.com/@meirwah/dfir-community-resource-list-1388b1dd505e
+
+# 動画
+- Malware Analysis VM Setup Tutorial - YouTube   
+https://www.youtube.com/watch?v=gFxImi5t37c&feature=youtu.be
+
+# その他
+- REGEX Cheat Sheet   
+https://staff.washington.edu/weller/grep.html
+
 
 
