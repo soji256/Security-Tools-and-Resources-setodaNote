@@ -1,4 +1,4 @@
-# setodaNote
+# setodaNote: Security Tools and Resources curated list
 ![setodaNote](setodaNote_logo.png "logo")
 
 セキュリティに関するツールやリソースのまとめ。
