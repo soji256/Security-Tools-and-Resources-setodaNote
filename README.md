@@ -64,6 +64,25 @@ https://tzworks.net/prototype_page.php?proto_id=19
 https://www.kroll.com/en/insights/publications/cyber/kroll-artifact-parser-extractor-kape
 
 
+# OSINT
+- DNSdumpster.com - dns recon and research, find and lookup dns records   
+https://dnsdumpster.com/
+
+- PeeringDB  
+https://www.peeringdb.com/
+
+- IP Address API and Data Solutions - geolocation, company, carrier info, type and more - IPinfo IP Address Geolocation API   
+https://ipinfo.io/
+
+- Hurricane Electric BGP Toolkit  
+https://bgp.he.net/
+
+- Home Page - BGPView   
+https://bgpview.io/
+
+
+
+
 
 
 
