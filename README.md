@@ -94,6 +94,33 @@ Mac などで意図せず含まれてしまうことがある.DS_Store ファイ
 - DFIR community resource list – Meir Wahnon – Medium   
 https://medium.com/@meirwah/dfir-community-resource-list-1388b1dd505e
 
+## riddit
+- A forum for computer security professionals.   
+https://www.reddit.com/r/security/
+
+- cybersecurity   
+https://www.reddit.com/r/cybersecurity/
+
+- Cyber Security   
+https://www.reddit.com/r/cyber_security/
+
+- Malware Analysis & Reports   
+https://www.reddit.com/r/Malware/
+
+- hacking: security in practice   
+https://www.reddit.com/r/hacking/
+
+- netsecstudents: Subreddit for students studying Network Security and its related subjects   
+https://www.reddit.com/r/netsecstudents/
+
+## discord
+- The Penetration Testing Community
+https://discordapp.com/invite/GXsEJqj
+
+- CybertechITsolutions
+https://discordapp.com/invite/5QUMYb3
+
+
 # 動画
 - Malware Analysis VM Setup Tutorial - YouTube   
 https://www.youtube.com/watch?v=gFxImi5t37c&feature=youtu.be
