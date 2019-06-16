@@ -114,10 +114,10 @@ https://www.reddit.com/r/hacking/
 https://www.reddit.com/r/netsecstudents/
 
 ## discord
-- The Penetration Testing Community
+- The Penetration Testing Community  
 https://discordapp.com/invite/GXsEJqj
 
-- CybertechITsolutions
+- CybertechITsolutions  
 https://discordapp.com/invite/5QUMYb3
 
 
