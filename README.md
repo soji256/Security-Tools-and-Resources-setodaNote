@@ -3,6 +3,7 @@
 
 セキュリティに関するツールやリソースのまとめ。
 
+# フォレンジック
 
 ## アーティファクトの一覧
 - ForensicArtifacts/artifacts: Digital Forensics Artifact Repository  
@@ -66,6 +67,9 @@ https://tzworks.net/prototype_page.php?proto_id=19
 - Kroll Artifact Parser and Extractor - KAPE   
 https://www.kroll.com/en/insights/publications/cyber/kroll-artifact-parser-extractor-kape
 
+## USNジャーナル
+- USNジャーナル解析の追及  
+https://www.jpcert.or.jp/present/2018/JSAC2018_03_yamazaki.pdf
 
 # OSINT
 - DNSdumpster.com - dns recon and research, find and lookup dns records   
