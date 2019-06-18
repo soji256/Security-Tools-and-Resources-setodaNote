@@ -100,6 +100,9 @@ https://dbot.demisto.com/
 https://github.com/gehaxelt/Python-dsstore  
 Mac などで意図せず含まれてしまうことがある.DS_Store ファイルをパースできるツール。場合によってはアカウント名やパスワードが含まれることもあるらしい（どんなケースだろ）。
 
+- MacOS File Movements | Forensic 4cast  
+https://forensic4cast.com/2016/10/macos-file-movements/
+
 # コミュニティ
 - DFIR community resource list – Meir Wahnon – Medium   
 https://medium.com/@meirwah/dfir-community-resource-list-1388b1dd505e
