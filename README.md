@@ -72,6 +72,9 @@ https://www.kroll.com/en/insights/publications/cyber/kroll-artifact-parser-extra
 https://www.jpcert.or.jp/present/2018/JSAC2018_03_yamazaki.pdf
 
 # OSINT
+- idtwi | Twitter IDチェッカー(変更履歴の追跡)   
+https://idtwi.com/
+
 - DNSdumpster.com - dns recon and research, find and lookup dns records   
 https://dnsdumpster.com/
 
