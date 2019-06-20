@@ -133,6 +133,16 @@ https://discordapp.com/invite/GXsEJqj
 - CybertechITsolutions  
 https://discordapp.com/invite/5QUMYb3
 
+# インシデントレスポンス・プレイブック
+- Incident Response Playbooks – Indispensable in Future Crisis situations  
+https://www.scip.ch/en/?labs.20190103
+
+- IncidentResponse.com | Incident Response Playbooks Gallery  
+https://www.incidentresponse.com/playbooks/
+
+- Top 5 Cyber Security Incident Response Playbooks | Ayehu  
+https://ayehu.com/cyber-security-incident-response-automation/top-5-cyber-security-incident-response-playbooks/
+
 
 # 動画
 - Malware Analysis VM Setup Tutorial - YouTube   
