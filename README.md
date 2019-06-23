@@ -143,6 +143,9 @@ https://www.incidentresponse.com/playbooks/
 - Top 5 Cyber Security Incident Response Playbooks | Ayehu  
 https://ayehu.com/cyber-security-incident-response-automation/top-5-cyber-security-incident-response-playbooks/
 
+# 難読化解除
+- Decoding VBE | Didier Stevens  
+https://blog.didierstevens.com/2016/03/29/decoding-vbe/
 
 # 動画
 - Malware Analysis VM Setup Tutorial - YouTube   
