@@ -107,7 +107,7 @@ https://forensic4cast.com/2016/10/macos-file-movements/
 - DFIR community resource list – Meir Wahnon – Medium   
 https://medium.com/@meirwah/dfir-community-resource-list-1388b1dd505e
 
-## riddit
+## reddit
 - A forum for computer security professionals.   
 https://www.reddit.com/r/security/
 
