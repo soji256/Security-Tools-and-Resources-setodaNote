@@ -155,5 +155,33 @@ https://www.youtube.com/watch?v=gFxImi5t37c&feature=youtu.be
 - REGEX Cheat Sheet   
 https://staff.washington.edu/weller/grep.html
 
+# 追記候補
+- index - hacking (A subreddit dedicated to hacking and hacking culture.)  
+https://old.reddit.com/r/hacking/wiki/index  
+
+- CTF逆向选手入坑指南 - SecPulse.COM | 安全脉搏  
+https://www.secpulse.com/archives/124037.html  
+CTFリバースプレーヤーエントリーガイド
+
+- 渗透痕迹分析随笔 - FreeBuf互联网安全新媒体平台  
+https://www.freebuf.com/articles/others-articles/226423.html  
+侵入痕跡の分析
+
+- APT 分析及 TTPs 提取  
+https://paper.seebug.org/1132/  
+APT分析とTTPの抽出  
+
+- kpcyrd/sn0int: Semi-automatic OSINT framework and package manager  
+https://github.com/kpcyrd/sn0int  
+半自動OSINTフレームワークおよびパッケージマネージャー  
+
+- axlshear/dora-osint-vm: OSINT VM based on Open Source Intelligence Techniques 7th Edition  
+https://github.com/axlshear/dora-osint-vm  
+DORAは、@ inteltechnique の最新の本に基づいた仮想マシンです 。
+
+- OSINT, Security, CTI, Social Engineering, Darkweb podcasts and more  
+https://i4.pm/  
+OSINT、セキュリティ、CTIポッドキャストなど！
+
 
 
